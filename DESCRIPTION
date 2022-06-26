@@ -55,7 +55,6 @@ Depends:
     SingleCellExperiment
 Imports:
     assertthat (>= 0.2.1),
-    batchelor,
     BiocGenerics (>= 0.28.0),
     BiocParallel,
     DelayedArray (>= 0.8.0),
